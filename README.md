@@ -15,6 +15,6 @@ pip2 install lolcat
 
 git clone https://github.com/Erenhacker/New.git
 
-cd Aaryan
+cd New
 
 python2 new.py
